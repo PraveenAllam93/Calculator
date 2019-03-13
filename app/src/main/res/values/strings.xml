@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="C">C</string>
+    <string name="result">result</string>
+    <string name="input2">input2</string>
+    <string name="input1">input1</string>
+</resources>
